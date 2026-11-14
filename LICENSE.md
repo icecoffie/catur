@@ -1,8 +1,6 @@
 # Chess
 
-Copyright (c) Cliff Pyles
-
-Original: <https://codepen.io/editor/cliffpyles/pen/01a19e25-e438-75a3-a372-c9c67de14514>
+Copyright (c) Malsky
 
 MIT License
 
